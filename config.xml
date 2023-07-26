@@ -4,7 +4,12 @@
   <Name>testPUBLIC</Name>
   <RemoteName>divvorigin</RemoteName>
   <RemoteUrl>https://github.com/alice-fractalfiles/divversion-testPUBLIC.git</RemoteUrl>
-  <Participants />
+  <Participants>
+    <User Id="8b3395d6-3ba8-4a47-9cc9-fc15d5571031">
+      <DisplayName>Alice</DisplayName>
+      <Email>alice.fractalfiles@gmail.com</Email>
+    </User>
+  </Participants>
   <ManagedBranches>
     <BranchSpec>main</BranchSpec>
   </ManagedBranches>
