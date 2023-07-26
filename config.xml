@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RepoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>32773708-7e00-4c10-a253-579a7381cd28</Id>
+  <Name>testPUBLIC</Name>
+  <RemoteName>divvorigin</RemoteName>
+  <RemoteUrl>https://github.com/alice-fractalfiles/divversion-testPUBLIC.git</RemoteUrl>
+  <Participants />
+  <ManagedBranches>
+    <BranchSpec>main</BranchSpec>
+  </ManagedBranches>
+  <TrunkBranchName>main</TrunkBranchName>
+  <SynchronizationTrigger>OnInterval</SynchronizationTrigger>
+</RepoConfiguration>
